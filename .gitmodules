@@ -1,0 +1,3 @@
+[submodule "dalle-mini-tools"]
+	path = dalle-mini-tools
+	url = git@github.com:xeb/dalle-mini-tools
